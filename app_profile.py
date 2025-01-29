@@ -43,8 +43,6 @@ if uploaded_file:
     else:
         st.write("The CSV does not have a 'Year' column to visualize trends.")
 
-st.balloons()
-
 # Add a contact section
 st.header("Contact Information")
 email = "ndivhuwo.thizwilondi@liktech.com"
